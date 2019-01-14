@@ -1,1 +1,1 @@
-#Sistema para a Área de Operações de TI
+Sistema para a Área de Operações de TI
